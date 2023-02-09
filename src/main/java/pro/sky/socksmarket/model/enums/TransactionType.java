@@ -1,9 +1,9 @@
-package pro.sky.socksmarket.model;
+package pro.sky.socksmarket.model.enums;
 
 public enum TransactionType {
-    A("Приемка"),
-    B("Выдача"),
-    C("Списание");
+    BUY("Приемка"),
+    SELL("Выдача"),
+    WRITE_OFF("Списание");
     private String typeOfTransaction;
 
     TransactionType(String type) {

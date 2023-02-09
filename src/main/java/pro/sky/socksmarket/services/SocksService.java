@@ -1,7 +1,7 @@
 package pro.sky.socksmarket.services;
 
-import pro.sky.socksmarket.model.Color;
-import pro.sky.socksmarket.model.Size;
+import pro.sky.socksmarket.model.enums.Color;
+import pro.sky.socksmarket.model.enums.Size;
 import pro.sky.socksmarket.model.Socks;
 
 public interface SocksService {

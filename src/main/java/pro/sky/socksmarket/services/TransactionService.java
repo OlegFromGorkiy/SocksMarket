@@ -2,7 +2,7 @@ package pro.sky.socksmarket.services;
 
 import pro.sky.socksmarket.model.Socks;
 import pro.sky.socksmarket.model.Transaction;
-import pro.sky.socksmarket.model.TransactionType;
+import pro.sky.socksmarket.model.enums.TransactionType;
 
 import java.util.List;
 
